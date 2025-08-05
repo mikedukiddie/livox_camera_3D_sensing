@@ -11,3 +11,7 @@ This setup is tested on Ubuntu 22.04 and ROS2 humble. For general installtion gu
     ![pcd_save_en3.png](imgs/pcd_save_en3.png)
     * Around Line 868, pcd_save.pcd_save_en -> true
     ![pcd_save_en4.png](imgs/pcd_save_en4.png)
+  * Re-build Fastlio to make changes effective
+    ```bash
+    $ cd fastlio_ws
+    $ colcon build --symlink-install
