@@ -9,3 +9,5 @@ This setup is tested on Ubuntu 22.04 and ROS2 humble. For general installtion gu
     ![pcd_save_en2.png](imgs/pcd_save_en2.png)
     * Around Line 832, pcd_save.pcd_save_en -> true
     ![pcd_save_en3.png](imgs/pcd_save_en3.png)
+    * Around Line 868, pcd_save.pcd_save_en -> true
+    ![pcd_save_en4.png](imgs/pcd_save_en4.png)
